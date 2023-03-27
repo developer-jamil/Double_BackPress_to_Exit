@@ -4,5 +4,4 @@ If the user clicks the back button once from the MainActivity, then the Toast wi
 
 
 ## Single Click to
-
-<img src="/image/ss.jpg" alt="LogIn" width="300" height="500">
+<img src="/image/ss.jpg" alt="Example Image" width="200" height="400">
