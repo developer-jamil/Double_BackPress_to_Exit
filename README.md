@@ -1,6 +1,6 @@
 # Double_BackPress_to_Exit
 
-If user click single backpress from MainActivity then the Toast will show. If user click twich time in 2sec the app will be close.
+If the user clicks the back button once from the MainActivity, then the Toast will be shown.. If user click twich time in 2sec the app will be close.
 
 
 ## Single Click to
